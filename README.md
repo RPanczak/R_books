@@ -29,7 +29,7 @@ List of useful [R](https://www.r-project.org/) books. Loosely based on [older li
 
 # Machine Learning
 
-## Hands-On Machine Learning with R [[Online]](https://bradleyboehmke.github.io/HOML/) 
+## Hands-On Machine Learning with R [[Online]](https://bradleyboehmke.github.io/HOML/) [[Extras]](https://koalaverse.github.io/homlr/)
 
 <img src="https://bradleyboehmke.github.io/HOML/images/homl-cover.jpg" width="200px"/>
 
