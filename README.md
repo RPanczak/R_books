@@ -9,6 +9,7 @@ List of useful [R](https://www.r-project.org/) books. Loosely based on [older li
 	* [Advanced Books](#advanced-books)
 	* [Machine Learning](#machine-learning)
 	* [Reports](#reports)
+	* [Shiny](#shiny)
 	* [Spatial](#spatial)
 
 # Beginner Books
@@ -38,6 +39,12 @@ List of useful [R](https://www.r-project.org/) books. Loosely based on [older li
 ## Dynamic Documents with R and knitr [[Online]](https://bradleyboehmke.github.io/HOML/)
 
 <img src="http://ecx.images-amazon.com/images/I/516z-S%2BUXjL._SX331_BO1,204,203,200_.jpg" width="200px"/>
+
+# Shiny
+
+## Mastering Shiny [[Online]](https://mastering-shiny.org/)
+
+<img src="https://d33wubrfki0l68.cloudfront.net/0c97eee3d8fc820f3a8d670c08b286e8a524257b/e426c/cover.png" width="200px"/>
 
 # Spatial
 
