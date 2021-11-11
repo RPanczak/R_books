@@ -58,8 +58,6 @@ List of useful [R](https://www.r-project.org/) books. Loosely based on [older li
 
 ## Spatial Data Science [[Online]](https://keen-swartz-3146c4.netlify.app/) [[GitHub]](https://github.com/edzer/sdsr/)
 
-<img src="https://geocompr.robinlovelace.net/images/cover.png" width="200px"/>
-
 ## Elegant and informative maps with tmap [[Online]](https://r-tmap.github.io/tmap-book/) [[GitHub]](https://github.com/r-tmap/tmap-book/)
 
 # License
