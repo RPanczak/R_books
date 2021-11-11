@@ -30,6 +30,10 @@ List of useful [R](https://www.r-project.org/) books. Loosely based on [older li
 
 # Machine Learning
 
+## An Introduction to Statistical Learning [[Online]](https://www.statlearning.com/) [[Package]](https://cran.r-project.org/web/packages/ISLR2/index.html)
+
+<img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4614-7138-7" width="200px"/>
+
 ## Hands-On Machine Learning with R [[Online]](https://bradleyboehmke.github.io/HOML/) [[Extras]](https://koalaverse.github.io/homlr/)
 
 <img src="https://bradleyboehmke.github.io/HOML/images/homl-cover.jpg" width="200px"/>
