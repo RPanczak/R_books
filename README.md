@@ -30,6 +30,10 @@ List of useful [R](https://www.r-project.org/) books. Loosely based on [older li
 
 # Machine Learning
 
+## An Introduction to Statistical Learning [[Online]](https://www.statlearning.com/) [[Package]](https://cran.r-project.org/web/packages/ISLR2/index.html)
+
+<img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4614-7138-7" width="200px"/>
+
 ## Hands-On Machine Learning with R [[Online]](https://bradleyboehmke.github.io/HOML/) [[Extras]](https://koalaverse.github.io/homlr/)
 
 <img src="https://bradleyboehmke.github.io/HOML/images/homl-cover.jpg" width="200px"/>
@@ -58,7 +62,7 @@ List of useful [R](https://www.r-project.org/) books. Loosely based on [older li
 
 ## Spatial Data Science [[Online]](https://keen-swartz-3146c4.netlify.app/) [[GitHub]](https://github.com/edzer/sdsr/)
 
-<img src="https://geocompr.robinlovelace.net/images/cover.png" width="200px"/>
+## Elegant and informative maps with tmap [[Online]](https://r-tmap.github.io/tmap-book/) [[GitHub]](https://github.com/r-tmap/tmap-book/)
 
 ## An Introduction to Spatial Data Analysis and Statistics: A Course in R [[Online]](https://www.spatial-analysis-r.org/) [[GitHub]](https://github.com/paezha/spatial-analysis-r)
 
