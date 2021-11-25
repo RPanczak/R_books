@@ -40,9 +40,17 @@ List of useful [R](https://www.r-project.org/) books. Loosely based on [older li
 
 # Reports
 
-## Dynamic Documents with R and knitr [[Online]](https://bradleyboehmke.github.io/HOML/)
+## Dynamic Documents with R and knitr [[Github]](https://github.com/yihui/knitr-book/)
 
 <img src="http://ecx.images-amazon.com/images/I/516z-S%2BUXjL._SX331_BO1,204,203,200_.jpg" width="200px"/>
+
+## R Markdown: The Definitive Guide [[Online]](https://bookdown.org/yihui/rmarkdown//)
+
+<img src="https://bookdown.org/yihui/rmarkdown/images/cover.png" width="200px"/>
+
+## R Markdown Cookbook [[Online]](https://bookdown.org/yihui/rmarkdown-cookbook/)
+
+<img src="https://bookdown.org/yihui/rmarkdown-cookbook/images/cover.png" width="200px"/>
 
 # Shiny
 
