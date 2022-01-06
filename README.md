@@ -38,7 +38,7 @@ List of useful [R](https://www.r-project.org/) books. Loosely based on [older li
 
 <img src="https://bradleyboehmke.github.io/HOML/images/homl-cover.jpg" width="200px"/>
 
-## Machine Learning with R - Third Edition [[Book website]](https://www.packtpub.com/product/machine-learning-with-r-third-edition/9781788295864) [[Extras]](https://github.com/PacktPublishing/Machine-Learning-with-R-Third-Edition 
+## Machine Learning with R - Third Edition [[Book website]](https://www.packtpub.com/product/machine-learning-with-r-third-edition/9781788295864) [[Extras]](https://github.com/PacktPublishing/Machine-Learning-with-R-Third-Edition) 
 
 <img src="https://static.packt-cdn.com/products/9781788295864/cover/smaller" width="200px"/>
 
