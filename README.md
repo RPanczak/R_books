@@ -34,6 +34,14 @@ List of useful [R](https://www.r-project.org/) books. Loosely based on [older li
 
 <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4614-7138-7" width="200px"/>
 
+## Tidy Modeling with R [[Book website]](https://www.tmwr.org/)  
+
+<img src="https://www.tmwr.org/images/cover.png" width="200px"/>
+
+## Feature Engineering and Selection: A Practical Approach for Predictive Models [[Book website]](http://www.feat.engineering/)  
+
+<img src="https://images.routledge.com/common/jackets/crclarge/978113807/9781138079229.jpg" width="200px"/>
+
 ## Hands-On Machine Learning with R [[Online]](https://bradleyboehmke.github.io/HOML/) [[Extras]](https://koalaverse.github.io/homlr/)
 
 <img src="https://bradleyboehmke.github.io/HOML/images/homl-cover.jpg" width="200px"/>
